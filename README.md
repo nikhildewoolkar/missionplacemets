@@ -1,7 +1,7 @@
 # Mission Placements
 
 ## Duration
-12th February to 11th June 2021
+12th February to 11th June
 
 ## Subjects to be Covered
 - Object-Oriented Programming (OOPs)
