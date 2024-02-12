@@ -1,0 +1,11 @@
+Tell me about yourself?
+
+- Sure, I'd be happy to share a bit about myself. My name is Yash Rautela, currently pursuing my MCA degree from "Sardar Patel Institute of Techology", Mumbai, Maharashtra. I am from Uttarakhand and done my schooling and graduation from Lucknow, Uttar Pradesh. I'm excited about the opportunity to apply my skills and continue learning in a professional setting.
+
+During my time in college, I worked on several projects that allowed me to gain experience in front-end and back-end development, as well as honing my skills in languages like HTML, CSS, JavaScript, and frameworks like React and Node.js. I'm particularly passionate about creating intuitive and visually appealing user interfaces that enhance the overall user experience.
+
+Apart from technical skills, I'm good at working with others and explaining things clearly. Whether it's in school projects or outside activities, I like being part of a team. I enjoy sharing ideas and solving problems together.
+
+Outside of coding, I have a few hobbies and interests that keep me balanced. I love cooking, which not only helps me recharge but also fosters creativity. Additionally, I'm actively involved in co-curricular activities like volunteering for community events and participating in sports clubs. These experiences have taught me valuable lessons in teamwork, leadership, and time management.
+
+Overall, I'm excited about the opportunity to contribute to meaningful projects, collaborate with talented individuals, and continue growing both personally and professionally.
