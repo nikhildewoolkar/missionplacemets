@@ -1,2 +1,6 @@
 Hello, my name is Mayank Warkade. I am 20 years old and originally form Bhandara, although I am currently reside in Mumbai.
-I have always been passionate about web development. This passion has driven me to pursue MCA at SPIT, where I have gained valuable skills and knowledge in various areas of web devolpment. In frontend, I am proficient in html, css and javascript, as well as frontend framework like angular. For backend development I am skilled in nodeJs and java with hands on experience in database management using MySQL and MongoDB. Additionally, I excel in data structures and algorithms, which further enhance my capabilities in problem solving. Other than this I enjoy playing cricket and football. These activities help me maintain a balanced lifestyle.
+I have always been passionate about web development. This passion has driven me to pursue MCA at SPIT, where I have gained valuable skills and knowledge in various areas of web devolpment. 
+In frontend, I am proficient in html, css and javascript, as well as frontend framework like angular. 
+For backend development I am skilled in nodeJs and java with hands on experience in database management using MySQL and MongoDB. 
+Additionally, I excel in data structures and algorithms, which further enhance my capabilities in problem solving. 
+Other than this I enjoy playing cricket and football. These activities help me maintain a balanced lifestyle.
