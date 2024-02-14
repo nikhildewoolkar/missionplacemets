@@ -1,3 +1,5 @@
+package missionplacemets.day_1.DSA;
+
 import java.util.Scanner;
 
 public class Stack {

@@ -1,3 +1,5 @@
+package missionplacemets.day_1.DSA;
+
 class searchInMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {    
       int rowIndex = searchRow(matrix,target);  

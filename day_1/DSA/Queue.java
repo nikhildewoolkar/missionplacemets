@@ -1,3 +1,5 @@
+package missionplacemets.day_1.DSA;
+
 // simple queue implementation with add , remove and length operation. (n sized q)
 
 import java.util.Scanner;
